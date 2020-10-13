@@ -7,3 +7,4 @@ DEMO
 * Day3 --> https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 * Day4 --> HackerRank : https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming
 * Day5 --> GeeksForGeeks : https://practice.geeksforgeeks.org/problems/max-length-chain/1/?category[]=Dynamic%20Programming&problemStatus=unsolved&problemType=functional&page=1&sortBy=submissions&query=category[]Dynamic%20ProgrammingproblemStatusunsolvedproblemTypefunctionalpage1sortBysubmissions, https://leetcode.com/problems/maximum-length-of-pair-chain/
+* Day6 --> LeetCode : https://leetcode.com/problems/buddy-strings/
