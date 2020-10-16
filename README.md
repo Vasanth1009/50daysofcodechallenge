@@ -10,5 +10,6 @@ DEMO
 * Day6 --> LeetCode : https://leetcode.com/problems/buddy-strings/
 * Day7 --> HackerRank : https://www.hackerrank.com/challenges/minimum-swaps-2/problem, https://www.hackerrank.com/challenges/minimum-swaps-2/problem,
            LeetCode : https://leetcode.com/problems/sort-list, https://leetcode.com/problems/house-robber, https://leetcode.com/problems/house-robber-ii
-* Day* --> LeetCode : https://leetcode.com/problems/missing-number/
+* Day8 --> LeetCode : https://leetcode.com/problems/missing-number/
            HackerRank : https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+* Day9 --> LeetCode : https://leetcode.com/problems/rotate-array, https://leetcode.com/problems/search-a-2d-matrix, https://leetcode.com/problems/single-number/
