@@ -15,3 +15,5 @@ DEMO
 * Day9 --> LeetCode : https://leetcode.com/problems/rotate-array, https://leetcode.com/problems/search-a-2d-matrix, https://leetcode.com/problems/single-number/
 * Day10 --> LeetCode : https://leetcode.com/problems/find-the-duplicate-number , https://leetcode.com/problems/set-mismatch, https://leetcode.com/problems/rotate-image/
 * Day11 --> LeetCode : https://leetcode.com/problems/odd-even-linked-list, https://leetcode.com/problems/counting-bits/
+* Day12 --> LeetCode : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
+            GeeksForGeeks : https://www.geeksforgeeks.org/find-subarray-with-given-sum/
