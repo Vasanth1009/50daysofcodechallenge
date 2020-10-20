@@ -1,6 +1,6 @@
-# 100daysofcodechallenge
+### #100daysofcodechallenge ###
 
-DEMO
+##### DEMO ######
 
 * Day1 --> Mouse-Light : https://codepen.io/vasanth1009/pen/pobvJja 
 * Day2 --> LeetCode Program: https://leetcode.com/problems/serialize-and-deserialize-bst/ ,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ , https://leetcode.com/problems/climbing-stairs/
@@ -17,3 +17,4 @@ DEMO
 * Day11 --> LeetCode : https://leetcode.com/problems/odd-even-linked-list, https://leetcode.com/problems/counting-bits/
 * Day12 --> LeetCode : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
             GeeksForGeeks : https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+* Day13 --> LeetCode : https://leetcode.com/problems/longest-valid-parentheses, https://leetcode.com/problems/valid-parentheses, https://leetcode.com/problems/binary-tree-postorder-traversal, https://leetcode.com/problems/binary-tree-inorder-traversal, https://leetcode.com/problems/binary-tree-preorder-traversal, https://leetcode.com/problems/maximum-depth-of-binary-tree/
