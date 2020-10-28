@@ -24,3 +24,4 @@
 * Day18 --> LeetCode : https://leetcode.com/problems/median-of-two-sorted-arrays/
 * Day19 --> LeetCode : https://leetcode.com/problems/maximum-subarray/
 * Day20 --> LeetCode : https://leetcode.com/problems/unique-paths/, https://leetcode.com/problems/squares-of-a-sorted-array/
+* Day21 --> LeetCode : https://leetcode.com/problems/sqrtx/
