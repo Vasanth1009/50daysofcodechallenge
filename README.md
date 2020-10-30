@@ -26,3 +26,4 @@
 * Day20 --> LeetCode : https://leetcode.com/problems/unique-paths/, https://leetcode.com/problems/squares-of-a-sorted-array/
 * Day21 --> LeetCode : https://leetcode.com/problems/sqrtx/
 * Day22 --> LeetCode : https://leetcode.com/problems/zigzag-conversion/
+* Day23 --> GeeksForGeeks : Rhombus Star Patter : https://ide.geeksforgeeks.org/Oeki4hPZJv
