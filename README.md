@@ -27,3 +27,4 @@
 * Day21 --> LeetCode : https://leetcode.com/problems/sqrtx/
 * Day22 --> LeetCode : https://leetcode.com/problems/zigzag-conversion/
 * Day23 --> GeeksForGeeks : Rhombus Star Patter : https://ide.geeksforgeeks.org/Oeki4hPZJv
+* Day24 --> LeetCode : https://leetcode.com/problems/remove-element/
