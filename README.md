@@ -29,5 +29,6 @@
 * Day23 --> GeeksForGeeks : Rhombus Star Patter : https://ide.geeksforgeeks.org/Oeki4hPZJv
 * Day24 --> LeetCode : https://leetcode.com/problems/remove-element/
 * Day25 --> LeetCode : https://leetcode.com/problems/duplicate-zeros, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
-* Day26 -->LeetCode : https://leetcode.com/problems/majority-element,
+* Day26 --> LeetCode : https://leetcode.com/problems/majority-element,
            FreeCodeCamp : https://codepen.io/vasanth1009/pen/gOMzzpq
+* Day27 --> LeetCode : https://leetcode.com/problems/consecutive-characters, https://leetcode.com/problems/insertion-sort-list/
