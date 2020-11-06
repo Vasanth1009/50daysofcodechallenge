@@ -35,3 +35,4 @@
 * Day28 --> LeetCode : https://leetcode.com/problems/minimum-height-trees/
             FreeCodeCamp : Responsive Web Design - Survey Form : https://codepen.io/vasanth1009/pen/RwRJpdm
 * Day29 --> LeetCode : https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/ ,Build a SnakeAndAppleGame using Java
+* Day30 --> LeetCode : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
