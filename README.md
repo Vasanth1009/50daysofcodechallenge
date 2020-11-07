@@ -16,8 +16,8 @@
 * Day11 --> LeetCode : https://leetcode.com/problems/odd-even-linked-list, https://leetcode.com/problems/counting-bits/
 * Day12 --> LeetCode : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
             GeeksForGeeks : https://www.geeksforgeeks.org/find-subarray-with-given-sum/
-* Day13 --> LeetCode : https://leetcode.com/problems/longest-valid-parentheses, https://leetcode.com/problems/valid-parentheses, https://leetcode.com/problems/binary-tree-postorder-traversal, https://leetcode.com/problems/binary-tree-inorder-traversal, https://leetcode.com/problems/binary-tree-preorder-traversal, https://leetcode.com/problems/maximum-depth-of-binary-tree/
-* Day14 --> HackerRank : https://www.hackerrank.com/challenges/tree-level-order-traversal/problem, https://www.hackerrank.com/challenges/ctci-bubble-sort/problem, https://www.hackerrank.com/challenges/mark-and-toys/problem, https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
+* Day13 --> LeetCode : https://leetcode.com/problems/longest-valid-parentheses, https://leetcode.com/problems/valid-parentheses, https://leetcode.com/problems/binary-tree-postorder-traversal, https://leetcode.com/problems/binary-tree-inorder-traversal, https://leetcode.com/problems/binary-tree-preorder-traversal,                                  https://leetcode.com/problems/maximum-depth-of-binary-tree/
+* Day14 --> HackerRank : https://www.hackerrank.com/challenges/tree-level-order-traversal/problem, https://www.hackerrank.com/challenges/ctci-bubble-sort/problem,            https://www.hackerrank.com/challenges/mark-and-toys/problem, https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
 * Day15 --> LeetCode : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 * Day16 --> LeetCode : https://leetcode.com/problems/merge-two-sorted-lists/ 
 * Day17 --> LeetCode : https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -36,4 +36,4 @@
             FreeCodeCamp : Responsive Web Design - Survey Form : https://codepen.io/vasanth1009/pen/RwRJpdm
 * Day29 --> LeetCode : https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/ ,Build a SnakeAndAppleGame using Java
 * Day30 --> LeetCode : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
-* Day31 --> FreeCodeCamp : Responsive Web Design - Product Landing Page : https://codepen.io/vasanth1009/full/BazOzNp
+* Day31 --> LeetCode : https://leetcode.com/problems/add-two-numbers-ii/,  FreeCodeCamp : Responsive Web Design - Product Landing Page :                             https://codepen.io/vasanth1009/full/BazOzNp
