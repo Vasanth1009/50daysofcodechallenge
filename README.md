@@ -37,3 +37,4 @@
 * Day29 --> LeetCode : https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/ ,Build a SnakeAndAppleGame using Java
 * Day30 --> LeetCode : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 * Day31 --> LeetCode : https://leetcode.com/problems/add-two-numbers-ii/,  FreeCodeCamp : Responsive Web Design - Product Landing Page :                             https://codepen.io/vasanth1009/full/BazOzNp
+* Day32 --> LeetCode : https://leetcode.com/problems/merge-sorted-array/
