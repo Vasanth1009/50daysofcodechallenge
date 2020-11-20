@@ -49,4 +49,4 @@
 * Day41 --> LeetCode : https://leetcode.com/problems/excel-sheet-column-number, FreeCodeCamp : Front End Libraries - jQuery Completed, Saas Completed.
 * Day42 --> LeetCode : https://leetcode.com/problems/plus-one, https://leetcode.com/problems/add-binary/
 * Day43 --> LeetCode : https://leetcode.com/problems/min-stack/
-* Day44 --> LeetCode : https://leetcode.com/problems/delete-node-in-a-linked-list/
+* Day44 --> LeetCode : https://leetcode.com/problems/delete-node-in-a-linked-list/, CodePen : https://codepen.io/vasanth1009/full/ExyBKZR
