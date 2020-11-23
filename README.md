@@ -52,3 +52,4 @@
 * Day44 --> LeetCode : https://leetcode.com/problems/delete-node-in-a-linked-list/, CodePen : https://codepen.io/vasanth1009/full/ExyBKZR
 * Day45 --> LeetCode : https://leetcode.com/problems/reverse-string/
 * Day46 --> LeetCode : https://leetcode.com/problems/generate-parentheses/
+* Day47 --> LeetCode : https://leetcode.com/problems/reverse-linked-list/
